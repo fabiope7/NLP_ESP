@@ -1,0 +1,7 @@
+- Descomprimir el archivo `.zip` de los poemas
+- Leer cada uno de sus archivos
+- Responder: ¿Cuál archivo tiene el mayor número de palabras?
+
+Hacer Web Scraping de 10 biografías en Wikipedia (en búcle)
+Obtener el encabezado de cada biografía
+Obtener todos los contenidos y etiquetas de título asociados a los links del primer párrafo
